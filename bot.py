@@ -2,7 +2,7 @@ from aiogram import types, Dispatcher, Bot, executor
 import time
 import random
 
-TOKEN = '5768065044:AAGmR1-T6GB-2heWHQjIfqBVOvvfzCWF0-Q'
+TOKEN = 'your token'
 
 bot = Bot(token = TOKEN)
 dp = Dispatcher(bot)
